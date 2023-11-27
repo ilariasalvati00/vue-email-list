@@ -1,0 +1,11 @@
+ul{
+  display:none;  
+}
+
+p{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
